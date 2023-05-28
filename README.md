@@ -11,7 +11,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-hubspot-oauth2
+    $ npm install Passport-Hubspot-postilize
 
 ## Usage of OAuth 2.0
 
@@ -23,7 +23,7 @@ accepts these credentials and calls `done` providing a user, as well as
 `options` specifying a client ID, client secret, and callback URL.
 
 ```Javascript
-var HubSpotStrategy = require( 'passport-hubspot-oauth2' ).Strategy;
+var HubSpotStrategy = require( 'Passport-Hubspot-postilize' ).Strategy;
 
 passport.use(new HubSpotStrategy({
     clientID:     HUBSPOT_CLIENT_ID,
