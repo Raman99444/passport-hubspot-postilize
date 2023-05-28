@@ -1,4 +1,4 @@
-# Passport-Hubspot-OAuth2
+# Passport-Hubspot-postilize
 
 [Passport](http://passportjs.org/) strategies for authenticating with [Hubspot](http://www.hubspot.com/)
 using OAuth 2.0.
@@ -68,13 +68,6 @@ app.get( '/auth/hubspot/callback',
    expires_in
 ```
 
-## Examples
-
-For a complete, working example, refer to the [OAuth 2.0 example](example).
-
-## Credits
-
-  - [Jared Hanson](http://github.com/jaredhanson)
 
 ## License
 
