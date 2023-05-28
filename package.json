@@ -1,6 +1,6 @@
 {
   "name": "passport-hubspot-postilize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package with slight modification auth flow",
   "keywords": [
     "passport",
